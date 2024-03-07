@@ -119,7 +119,7 @@ const ratings = watchList.map( (element) =>
             rating: element.imdbRating
         }
     } 
-)
+) 
   
 console.log(JSON.stringify(ratings));
 /*
